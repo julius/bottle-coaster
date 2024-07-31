@@ -18,5 +18,9 @@ On hot days, cold water bottles sweat a lot. I could not find a good big coaster
 
 Put the .stl into your slicer like this
 
-![](images/sliced.png)
-![](images/sliced2.png)
+<table>
+<tr>
+    <td><img src="images/sliced.png"></td>
+    <td><img src="images/sliced2.png"></td>
+</tr>
+</table>
